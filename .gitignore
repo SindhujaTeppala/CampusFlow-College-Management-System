@@ -1,0 +1,19 @@
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Java / Maven
+backend/target/
+*.class
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
